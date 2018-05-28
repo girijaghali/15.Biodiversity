@@ -1,0 +1,16 @@
+.jumbotron {
+    text-align: center;
+    background-color: rgba(136, 80, 80, 0.5);
+}
+
+#charts {
+    height: 800px;
+}
+
+.card-header {
+    background-color: rgb(136, 80, 80);
+}
+
+.card-body {
+    background-color: rgb(170, 140, 140);
+}
